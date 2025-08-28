@@ -3,7 +3,7 @@ import profileImg from '../assets/aiman.png';
 
 const HeroSection = () => {
   return (
-    <section className="bg-white min-h-screen flex items-center justify-center px-6 py-12 relative overflow-hidden">
+    <section className="bg-white min-h-screen flex items-center justify-center px-6 py-12 relative overflow-hidden" id="home">
       {/* Background Circle Shadow */}
       <div className="absolute w-[350px] h-[350px] bg-black rounded-full left-[10%] top-[25%] -z-10 hidden md:block"></div>
 
