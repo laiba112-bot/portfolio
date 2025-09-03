@@ -4,7 +4,7 @@ const testimonials = [
     name: "Sarah Khan",
     role: "Client - Web Design Project",
     feedback: "Working with Aiman was a pleasure! She delivered a beautiful, responsive website ahead of schedule. Highly recommended!",
-    image: "/assets/client1.jpg", // Add image to assets folder
+    image: "/assets/client1.jpg", 
   },
   {
     id: 2,

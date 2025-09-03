@@ -1,5 +1,3 @@
-// src/components/Services.jsx
-
 import React from "react";
 import services from "../data/services";
 import "../App.css";

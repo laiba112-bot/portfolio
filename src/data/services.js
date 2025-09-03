@@ -22,7 +22,7 @@ const services = [
     id: 3,
     title: "WebGenix",
     description:
-      "A collaborative platform helping new developers understand the fundamentals of web development with structured, beginner-friendly tutorials.",
+      "A full-service digital agency specializing in web development, design, and technology solutions. We simplify complex ideas into creative, scalable, and impactful digital experiences.",
     image: webgenixImage,
   },
 ];

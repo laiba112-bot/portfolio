@@ -20,7 +20,7 @@ function App() {
 <MotionWrapper><Skills /></MotionWrapper>
 <MotionWrapper><Projects /></MotionWrapper>
 <MotionWrapper><Services /></MotionWrapper>
-<MotionWrapper><Testimonials /></MotionWrapper>
+{/* <MotionWrapper><Testimonials /></MotionWrapper> */}
 <MotionWrapper><Contact /></MotionWrapper>
 <Footer />
 

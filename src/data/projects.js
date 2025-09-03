@@ -42,7 +42,7 @@ const projects = [
     technologies: ["React", "Javascript", "Bootstrap"],
     image: SpacelyticsImg,
     github: "https://github.com/AimanVoid/nasa-react",
-    live: "https://aimanvoid.github.io/Updated-Task-Tracker-/"
+    live: "https://nasa-react-three.vercel.app/"
   },
   {
     id: 5,

@@ -1,4 +1,3 @@
-// src/components/Testimonials.jsx
 import React from "react";
 import testimonials from "../data/testimonials";
 import Slider from "react-slick";
@@ -12,11 +11,11 @@ const Testimonials = () => {
     dots: true,
     infinite: true,
     speed: 500,
-    slidesToShow: 1, // ek time pe 1 testimonial
+    slidesToShow: 1, 
     slidesToScroll: 1,
     autoplay: true,
     autoplaySpeed: 3000,
-    arrows: false, // agar arrows nahi chahiye
+    arrows: false, 
   };
 
   return (
