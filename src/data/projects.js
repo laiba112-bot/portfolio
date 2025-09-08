@@ -5,7 +5,7 @@ import SpacelyticsImg from "../assets/Spacelytics.png";
 import DigitalClockImg from "../assets/digitalclock.png";
 import TodoImg from "../assets/todo.png";
 import ScientificCalculatorImg from "../assets/ScienticCalculator.png";
-import Pop from "../assets/Skil.png";
+import Pop from "../assets/skil.png";
 import darazImg from "../assets/lagacy.png"
 import Mon from "../assets/mony.png"
 import labi from "../assets/lai.png"
