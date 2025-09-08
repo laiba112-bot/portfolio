@@ -5,7 +5,11 @@ import SpacelyticsImg from "../assets/Spacelytics.png";
 import DigitalClockImg from "../assets/digitalclock.png";
 import TodoImg from "../assets/todo.png";
 import ScientificCalculatorImg from "../assets/ScienticCalculator.png";
-import darazImg from "../assets/Daraz.png"
+import Pop from "../assets/Skil.png";
+import darazImg from "../assets/lagacy.png"
+import Mon from "../assets/mony.png"
+import labi from "../assets/lai.png"
+import ap from "../assets/api.png"
 
 const projects = [
   {
@@ -73,12 +77,48 @@ const projects = [
   },
   {
     id: 8,
-    title: "Daraz Clone",
+    title: "skill share",
+    description: "Daraz Clone is a homepage replica made with HTML and CSS.",
+    technologies: ["HTML", "CSS", "Bootstrap"],
+    image: Pop,
+    github: "https://github.com/laiba112-bot/hackathon11.git",
+    live: "https://peppy-youtiao-fb9190.netlify.app/"
+  },
+  {
+    id: 8,
+    title: "Gaming WEB",
     description: "Daraz Clone is a homepage replica made with HTML and CSS.",
     technologies: ["HTML", "CSS", "Bootstrap"],
     image: darazImg,
-    github: "https://github.com/AimanVoid/Daraz?tab=readme-ov-file",
+    github: "https://github.com/laiba112-bot/gaming-web.git",
     live: "https://aimanvoid.github.io/Daraz/"
+  },
+  {
+    id: 9,
+    title: "Money works better here",
+    description: "Daraz Clone is a homepage replica made with HTML and CSS.",
+    technologies: ["HTML", "CSS", "Bootstrap"],
+    image: Mon,
+    github: "https://github.com/laiba112-bot/gaming-web.git",
+    live: "https://bejewelled-monstera-ff5724.netlify.app/"
+  },
+  {
+    id: 10,
+    title: "prep",
+    description: "Daraz Clone is a homepage replica made with HTML and CSS.",
+    technologies: ["HTML", "CSS", "Bootstrap", "react"],
+    image: labi,
+    github: "https://github.com/laiba112-bot/gaming-web.git",
+    live: "https://ephemeral-paletas-42d54f.netlify.app/"
+  },
+  {
+    id: 11,
+    title: "Api store work",
+    description: "Daraz Clone is a homepage replica made with HTML and CSS.",
+    technologies: ["HTML", "CSS", "Bootstrap", "react"],
+    image: ap,
+    github: "https://github.com/laiba112-bot/gaming-web.git",
+    live: "https://my-react-app-wheat-seven.vercel.app/"
   }
 ];
 

@@ -8,11 +8,12 @@ const Contact = () => {
         <h2 className="contact-title">Get in Touch</h2>
         <p className="contact-subtitle">
           Feel free to reach out.
+          email: laibaazeem608@gmail.com
         </p>
 
         <div className="form-group">
           <a
-            href="mailto:aiman.maroofofficial@gmail.com" 
+            href="mailto:laibaazeem508@gmail.com" 
             className="btn-submit"
           >
             Send Email

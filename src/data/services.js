@@ -1,5 +1,5 @@
 import devImage from "../assets/dev.png";
-import aitzoneImage from "../assets/aitzone.png";
+import aitzoneImage from "../assets/im.png";
 import webgenixImage from "../assets/webgenix.png";
 
 
@@ -13,9 +13,9 @@ const services = [
   },
   {
     id: 2,
-    title: "Aiman's IT Zone",
+    title: "Global computer institute of technology",
     description:
-      "My personal YouTube channel where I simplify programming, tech, and web development for beginners through bite-sized educational videos.",
+      "I serve as a Web and App Development Instructor at Global Computer Institute, one of the most renowned and trusted IT institutes, celebrated for its quality education, practical training, and innovative learning environment. Here, I take pride in guiding students toward becoming future-ready professionals in the digital era.",
     image: aitzoneImage,
   },
   {

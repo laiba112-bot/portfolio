@@ -30,13 +30,13 @@ const Footer = () => {
         <div className="footer-social">
           <h3>Follow Me</h3>
           <div className="social-icons">
-            <a href="https://github.com/AimanVoid" target="_blank" rel="noreferrer">
+            <a href="https://github.com/laiba112-bot" target="_blank" rel="noreferrer">
               <i className="fab fa-github"></i>
             </a>
-            <a href="https://www.linkedin.com/in/aiman-maroof-261611364/" target="_blank" rel="noreferrer">
+            <a href="https://www.linkedin.com/in/laiba-azeem-bb9624309/" target="_blank" rel="noreferrer">
               <i className="fab fa-linkedin"></i>
             </a>
-            <a href="https://www.instagram.com/_aimanmaroof/" target="_blank" rel="noreferrer">
+            <a href="https://www.instagram.com/laiba_azeem_1/?igsh=Z3owdTc5a2lscTA4#" target="_blank" rel="noreferrer">
               <i className="fab fa-instagram"></i>
             </a>
           </div>
@@ -45,7 +45,7 @@ const Footer = () => {
 
       {/* Bottom Bar */}
       <div className="footer-bottom">
-        <p>© {new Date().getFullYear()} Aiman Maroof | All Rights Reserved</p>
+        <p>© {new Date().getFullYear()} Laiba Azeem | All Rights Reserved</p>
       </div>
     </footer>
   );

@@ -30,7 +30,7 @@ const Projects = () => {
 
     <div className="text-center mt-8">
       <a
-    href="https://github.com/AimanVoid"
+    href="https://github.com/laiba112-bot"
     target="_blank"
     rel="noopener noreferrer"
     className="inline-block bg-black text-white px-6 py-2 rounded hover:bg-gray-800 transition"

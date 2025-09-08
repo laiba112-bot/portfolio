@@ -1,5 +1,5 @@
 import React from 'react';
-import profileImg from '../assets/aiman.png';
+import profileImg from '../assets/my.jpeg';  // 👈 fixed
 
 const HeroSection = () => {
   return (
@@ -12,7 +12,7 @@ const HeroSection = () => {
         {/* Text Area */}
         <div className="flex-1 text-center md:text-left">
           <h1 className="text-4xl sm:text-5xl font-bold text-black mb-2">
-            I'm <span className="text-[rgb(228,18,169)]">Aiman Maroof</span>
+            I'm <span className="text-[rgb(228,18,169)]">Laiba Azeem</span>
           </h1>
           <h2 className="text-2xl sm:text-3xl font-semibold text-gray-800 mb-4">
             Full-Stack Web Developer | Tech-Educator | Content Creator

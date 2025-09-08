@@ -9,7 +9,7 @@ const Navbar = () => {
       <div className="navbar-container">
         {/* Logo / Name */}
         <a href="#home" className="navbar-logo">
-          <span>Aiman</span>Maroof
+          <span>Laiba</span> Azeem
         </a>
 
         {/* Hamburger Menu (mobile) */}
